@@ -15,8 +15,9 @@ A simple Django project with two apps (`app1` and `app2`) using static views and
 ## 🚀 **How to Run the Project**
 
 # 📥 Clone the Repository
-git clone https://github.com/YOUR_GITHUB_USERNAME/StudentProject.git
+git clone https://github.com/SRCEM-AIML/C55_Vishal_Arkalwar_Assignment_2.git
 cd StudentProject
+
 
 # 🛠️ Create and activate virtual environment
 python3 -m venv venv
